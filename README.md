@@ -1,5 +1,5 @@
 # HC2MM
-Automated tool to migrate data from Hipchat to Mattermost painlessly 
+Automated tool to migrate data from Hipchat to Mattermost. 
 
 Full documentation is available in our Confluence space:
 [HC2MM Documentation pages](https://chicago.herzum.com/confluence/x/za0UB) https://chicago.herzum.com/confluence/x/za0UB
